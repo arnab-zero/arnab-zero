@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Back-end Development
 
-- 📫 How to reach me darnabhere@gmail.com
+- 📫 How to reach me: bsse1308@iit.du.ac.bd
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
