@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://media.baamboozle.com/uploads/images/113076/1614548036_485257_url.gif" alt="arnab-zero" width="400" height="300"/> </p>
 
-- 🔭 I’m currently working on SPL-1
-
 - 🌱 I’m currently learning Back-end Development
 
 - 📫 How to reach me: bsse1308@iit.du.ac.bd
